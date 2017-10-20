@@ -129,7 +129,7 @@ Edit `bitcore-node.json` with something similar to:
 }
 ```
 
-**Note**: To install services [insight-api](https://github.com/bitpay/insight-api) and [insight-ui](https://github.com/bitpay/insight-ui) you'll need to clone the repositories locally.
+**Note**: To install services [insight-api](https://github.com/bitchk-wallet/insight-api) and [insight-ui](https://github.com/bitchk-wallet/insight-ui) you'll need to clone the repositories locally.
 
 Setup symlinks for all of the services and dependencies:
 
